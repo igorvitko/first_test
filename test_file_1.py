@@ -6,3 +6,4 @@ print(a, b)
 print("first commit")
 c = "Hello world!"
 d = input("Введите свое имя: ")
+print('new line in editor')
