@@ -5,3 +5,4 @@ b = m.pow(2, 16)
 print(a, b)
 print("first commit")
 c = "Hello world!"
+d = input("Введите свое имя: ")
