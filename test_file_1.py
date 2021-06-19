@@ -2,4 +2,4 @@ import math as m
 
 a = m.pi * 2
 b = m.pow(2, 16)   
-print(a)
+print(a, b)
