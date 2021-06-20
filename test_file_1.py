@@ -9,4 +9,4 @@ print(f"Your first programm - {c}")
 d = input("Введите свое имя: ")
 print('new line in editor')
 print(f"Hello, {d}!")
-
+e = "New var was added on server"
